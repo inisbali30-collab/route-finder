@@ -1,10 +1,10 @@
-package pwc.assignement.service;
+package pwc.assignment.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import pwc.assignement.model.Country;
+import pwc.assignment.model.Country;
 
 import jakarta.annotation.PostConstruct;
 import java.io.IOException;
@@ -15,7 +15,7 @@ import java.util.Map;
 
 @Service
 @Slf4j
-public class CountryService {
+public class CountryLoaderService {
 
   private final ObjectMapper mapper = new ObjectMapper();
 

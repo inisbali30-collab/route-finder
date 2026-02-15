@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: route-finder
+
+logging:
+  level:
+    root: INFO
+    pwc.assignment: INFO

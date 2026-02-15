@@ -1,4 +1,4 @@
-package pwc.assignement;
+package pwc.assignment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

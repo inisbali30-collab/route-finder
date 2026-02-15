@@ -1,4 +1,4 @@
-package pwc.assignement.model;
+package pwc.assignment.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
